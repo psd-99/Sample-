@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "title": "Album 1",
+    "description": "sandares",
+    "cover": "/albums/3b303aee-fae1-404f-b0b9-a7d0c5319229.jpg",
+    "images": [
+      {
+        "id": "1",
+        "url": "",
+        "src": "/albums/a635ad0a-303a-4e42-8780-c968ec798d19.jpg",
+        "alt": "",
+        "width": 300,
+        "height": 327
+      },
+      {
+        "id": "2",
+        "url": "",
+        "src": "/albums/d6199097-3eca-4141-a380-1686339f75d7.png",
+        "alt": "",
+        "width": 600,
+        "height": 354
+      },
+      {
+        "id": "3",
+        "url": "",
+        "src": "/albums/6de6dc42-bbf3-4c68-9213-997799b7e0ac.gif",
+        "alt": "",
+        "width": 250,
+        "height": 250
+      },
+      {
+        "id": "4",
+        "url": "",
+        "src": "/albums/92ebbf81-e847-49a6-8bf2-a53cce5dbe4f.jpg",
+        "alt": "",
+        "width": 152,
+        "height": 234
+      },
+      {
+        "id": "5",
+        "url": "",
+        "src": "/albums/687290a2-7602-433c-a6f9-ce637585e0e9.jpg",
+        "alt": "",
+        "width": 198,
+        "height": 254
+      },
+      {
+        "id": "6",
+        "url": "",
+        "src": "/albums/9cb45236-a13e-4133-8db2-b6c4879a2743.jpg",
+        "alt": "",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "id": "7",
+        "url": "",
+        "src": "/albums/522e2600-0332-4be6-8d3f-3b856ae4f6cb.png",
+        "alt": "",
+        "width": 1300,
+        "height": 763
+      },
+      {
+        "id": "8",
+        "url": "",
+        "src": "/albums/44a8c3bf-a10e-456b-b3fc-352118459fda.jpg",
+        "alt": "",
+        "width": 287,
+        "height": 234
+      },
+      {
+        "id": "9",
+        "url": "",
+        "src": "/albums/f74692a9-91f1-41f3-bdae-6d0da5359a41.jpg",
+        "alt": "",
+        "width": 370,
+        "height": 278
+      },
+      {
+        "id": "10",
+        "url": "",
+        "src": "/albums/40c7fa00-679d-4d85-abb5-b3c137e7b182.jpg",
+        "alt": "",
+        "width": 300,
+        "height": 239
+      },
+      {
+        "id": "11",
+        "url": "",
+        "src": "/albums/9951a615-529d-4803-9eda-e5e48764baaf.jpg",
+        "alt": "",
+        "width": 383,
+        "height": 253
+      },
+      {
+        "id": "12",
+        "url": "",
+        "src": "/albums/a740bfde-2258-48f6-a6f7-f95a462c703d.jpg",
+        "alt": "",
+        "width": 382,
+        "height": 253
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Album 1",
+    "description": "adas",
+    "cover": "/albums/75be772f-7900-42fd-b3d9-b29ff2deed7a.gif",
+    "images": [
+      {
+        "id": "1",
+        "url": "",
+        "src": "/albums/13bec11f-4331-4a06-8503-7a5166ff0477.gif",
+        "alt": "",
+        "width": 250,
+        "height": 250
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Album 2",
+    "description": "ddssdadf",
+    "cover": "/albums/1897b235-a84f-4257-852d-1ca68dc330d1.jpg",
+    "images": [
+      {
+        "id": "1",
+        "url": "",
+        "src": "/albums/d352a445-c236-4d4b-9e47-5d6ca3df3c83.jpg",
+        "alt": "",
+        "width": 198,
+        "height": 254
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Album 3",
+    "description": "ededew",
+    "cover": "/albums/672d1c92-e369-415a-862e-bc82eed4ade5.jpg",
+    "images": [
+      {
+        "id": "1",
+        "url": "",
+        "src": "/albums/24a703e0-b676-4f27-8e1d-a2cdf90d101d.jpg",
+        "alt": "",
+        "width": 287,
+        "height": 234
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Album 4",
+    "description": "ew",
+    "cover": "/albums/e5daa54f-f596-4bd6-9f14-8cfd0bb8c65c.jpg",
+    "images": [
+      {
+        "id": "1",
+        "url": "",
+        "src": "/albums/a0a2a6bd-dc05-4b25-a330-8a4df6e63a9e.jpg",
+        "alt": "",
+        "width": 370,
+        "height": 278
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Album 5",
+    "description": "fwewef",
+    "cover": "/albums/93279dfb-e740-4036-a444-df8687fb5301.jpg",
+    "images": [
+      {
+        "id": "1",
+        "url": "",
+        "src": "/albums/7f184ed7-c6a2-465b-be28-7c7f35d07d12.jpg",
+        "alt": "",
+        "width": 383,
+        "height": 253
+      }
+    ]
+  }
+]
